@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:52:43.773291
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:48
 #+TITLE: 三峰藏和尚語錄
 #+PROPERTY: CBETA_ID J34nB299
 #+PROPERTY: ID KR6q0473
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 34, No. B299
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0473_J_010-0172b> 
 #+PROPERTY: JUAN 10
-
- 三峰藏和尚語錄卷第十¶
+三峰藏和尚語錄卷第十¶
 吳虎丘山雲巖寺嗣法門人弘儲編¶
 
-頌古三¶
+* 頌古¶
 
 「舉百丈再參馬祖侍立次祖目視繩床角拂子¶
 丈曰即此用離此用祖曰汝向後開兩片皮將¶
